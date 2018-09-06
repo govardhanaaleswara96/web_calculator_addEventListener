@@ -1,0 +1,92 @@
+body{
+    background-color:#272727;
+  }
+.table-cals{
+  border:10px solid #ffffff;
+  width:550px;
+  height:500px;
+  margin:100px 100px;
+  padding:50px;
+  background-color:#20242b;
+
+}
+.table-cals tr td{
+   padding:20px 10px;
+}
+.table-cals h1{
+  text-align:center;
+  font-size:40px;
+  margin-right:100px;
+  margin-top:-40px;
+  color:#ffffff;
+
+}
+#first-cals , #second-cals{
+  width:250px;
+  text-align:center;
+  font-size:20px;
+  padding:30px 15px;
+  margin-left:50px;
+  margin-top:30px;
+  margin-bottom:20px;
+
+}
+.btn-cals{
+  width:200px;
+  padding:20px 15px;
+  font-size:30px;
+  margin-left:100px;
+  background-color:#449943;
+  color:#ffffff;
+  outline:none;
+  border:none;
+  border-radius:10px;
+}
+#operation-cals{
+  width:50px;
+  padding:10px 50px;
+  margin-right:60px;
+  margin-left:100px;
+  background-color:#fa0029;
+  color:#ffffff;
+  outline:none;
+  border:none;
+  border-radius:10px;
+  font-size:50px;
+  text-align:center;
+
+}
+#result-cals{
+  width:800px;
+  font-size:30px;
+  padding:40px 40px;
+  margin-left:250px;
+  text-align:center;
+}
+.task-cals{
+  width:200px;
+  margin:30px 20px;
+  font-size:50px;
+  padding:15px 20px;
+  background-color:#ff0051;
+  color:#ffffff;
+  outline:none;
+  border:none;
+  border-radius:10px;
+}
+#sub-cals{
+  margin-right:80px;
+  font-size:70px;
+  padding:5px 20px;
+}
+#mul-cals{
+  margin-left:30px;
+}
+input[type = 'number']:hover,
+button:hover{
+  box-shadow:0 0 15px #ffffff;
+}
+input[type = 'number']:hover{
+  background-color:lightgreen;
+  color:
+}
